@@ -133,3 +133,13 @@ h3 {
 .footicon {
   margin: 20px 10px;
 }
+
+@media screen and (max-width: 1000px) {
+  #title {
+    text-align: center;
+  }
+  .title-image {
+    transform: rotate(0);
+    width: 50%;
+  }
+}
