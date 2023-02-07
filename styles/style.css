@@ -98,3 +98,27 @@ h3 {
   width: 15%;
   margin: 20px 20px 50px;
 }
+/* pricing section */
+#pricing {
+  padding: 100px;
+}
+.pricingcards {
+  padding: 3% 2%;
+}
+
+/* section call to action */
+
+#cta {
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 7% 15%;
+}
+.cta {
+  color: #fff;
+  font-family: "Montserrat-bold";
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+.ctabtn {
+  margin: 5% 4%;
+}
