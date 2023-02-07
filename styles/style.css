@@ -59,3 +59,18 @@ h3 {
   width: 60%;
   transform: rotate(25deg);
 }
+
+/* icon */
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+  /* font-size: 3rem; to change size we can use yhis typr or by mentioning fas-4x or fas-3x */
+}
+.icon:hover {
+  color: #ff4c68;
+}
+/* feature section */
+#features {
+  padding: 7rem;
+}
+
