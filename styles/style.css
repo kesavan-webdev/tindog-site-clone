@@ -47,3 +47,15 @@ h3 {
   font-size: 1.2rem;
   font-family: "Montserrat-black", sans-serif;
 }
+
+
+/* download button */
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* title image */
+.title-image {
+  width: 60%;
+  transform: rotate(25deg);
+}
